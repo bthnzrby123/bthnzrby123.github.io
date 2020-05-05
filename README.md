@@ -43,7 +43,3 @@
 </div>
   </body>
 </html>
-
-</style>
-<div class="heart"></div>
-
