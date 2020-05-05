@@ -9,7 +9,7 @@
   .heart {
     position: absolute;
     margin: auto;
-    top: 0;
+    top: 50;
     right: 0;
     bottom: 0;
     left: 0;
