@@ -8,8 +8,8 @@
   .heart {
     position: relative;
     margin: auto;
-    top: 50%;
-    right: 50;
+    top: 0;
+    right: 0;
     bottom: 0;
     left: 0;
     background-color: pink;
