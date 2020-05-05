@@ -6,7 +6,7 @@
    <div class="heart">
    <style>
   .heart {
-    position: absolute;
+    position: relative;
     margin: auto;
     top: 0;
     right: 50;
