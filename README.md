@@ -9,7 +9,7 @@
     position: absolute;
     margin: auto;
     top: 0;
-    right: 0;
+    right: 50;
     bottom: 0;
     left: 0;
     background-color: pink;
