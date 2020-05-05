@@ -1,4 +1,3 @@
-
   <head>
     <meta charset="utf-8">
     <title>KALP</title>
@@ -9,7 +8,7 @@
   .heart {
     position: absolute;
     margin: auto;
-    top: 50;
+    top: 0;
     right: 0;
     bottom: 0;
     left: 0;
@@ -41,3 +40,4 @@
 </style>
 </div>
   </body>
+</html>
