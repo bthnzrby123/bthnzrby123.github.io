@@ -1,3 +1,4 @@
+<html>
   <head>
     <meta charset="utf-8">
     <title>KALP</title>
@@ -6,7 +7,7 @@
    <div class="heart">
    <style>
   .heart {
-    position: relative;
+    position: absolute;
     margin: auto;
     top: 0;
     right: 0;
