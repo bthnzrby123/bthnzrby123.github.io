@@ -1,4 +1,12 @@
-<style>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>KALP</title>
+  </head>
+  <body>
+   <div class="heart">
+   <style>
   .heart {
     position: absolute;
     margin: auto;
@@ -32,4 +40,6 @@
     left: 0px;
   }
 </style>
-<div class="heart"></div>
+</div>
+  </body>
+</html>
